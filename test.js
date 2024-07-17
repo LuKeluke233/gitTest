@@ -1,5 +1,10 @@
-console.log('测试')
-console.log('测试2')
-console.log('测试3')
 
+<<<<<<< HEAD
 console.log('这是测试提交')
+=======
+console.log('这是测试提交')
+console.log('这是测试提交')
+console.log('这是测试提交')
+console.log('这是测试提交')
+console.log('这是测试提交')
+>>>>>>> 4de5578 (222)
